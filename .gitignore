@@ -1,0 +1,6 @@
+# dependencies
+target
+*.lock
+
+# editor
+.vscode
