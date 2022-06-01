@@ -28,3 +28,11 @@ git clone git@github.com:freddydc/awesome-rust.git
 cd awesome-rust
 cargo run --quiet
 ```
+
+## Doing exercises
+
+Just run:
+
+```bash
+cargo run -q -p myExercise
+```
