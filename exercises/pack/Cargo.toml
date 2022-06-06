@@ -1,0 +1,8 @@
+[package]
+name = "pack"
+version = "0.1.0"
+edition = "2021"
+
+# See at https://crates.io
+[dependencies]
+regex = "1.5.6"
