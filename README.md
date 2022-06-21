@@ -25,8 +25,6 @@ Basically: Clone the repository
 
 ```bash
 git clone git@github.com:freddydc/awesome-rust.git
-cd awesome-rust
-cargo run --quiet
 ```
 
 ## Doing exercises
@@ -34,5 +32,6 @@ cargo run --quiet
 Just run:
 
 ```bash
+cd awesome-rust
 cargo run -q -p myExercise
 ```
